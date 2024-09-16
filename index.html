@@ -13,19 +13,35 @@
             color: #333;
             margin: 0;
             padding: 0;
+        }
+        header {
+            background-color: #0277bd;
+            padding: 10px 0;
+            color: white;
+            text-align: center;
+        }
+        nav {
             display: flex;
             justify-content: center;
-            align-items: center;
-            height: 100vh;
+            padding: 10px;
+            background-color: #01579b;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #0288d1;
+            border-radius: 5px;
         }
         .container {
-            max-width: 800px;
-            width: 90%;
+            max-width: 1200px;
+            margin: 30px auto;
             padding: 30px;
             background-color: #fff;
             border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-            text-align: center;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
         }
         h1 {
             color: #333;
@@ -34,7 +50,6 @@
         p {
             margin: 0 0 20px;
             font-size: 16px;
-            line-height: 1.7;
         }
         .highlight {
             background-color: #e1f5fe;
@@ -61,10 +76,167 @@
         li {
             margin: 10px 0;
         }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0277bd;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #01579b;
+        }
+        .card {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 10px 0;
+        }
+        .card h3 {
+            margin: 0 0 10px;
+        }
+        footer {
+            background-color: #0277bd;
+            padding: 20px 0;
+            text-align: center;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>树梢的小窝 - 项目介绍</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0277bd;
+            padding: 10px 0;
+            color: white;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            padding: 10px;
+            background-color: #01579b;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        nav a:hover {
+            background-color: #0288d1;
+            border-radius: 5px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 30px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        p {
+            margin: 0 0 20px;
+            font-size: 16px;
+        }
+        .highlight {
+            background-color: #e1f5fe;
+            padding: 15px;
+            border-radius: 5px;
+            border: 1px solid #b3e5fc;
+            color: #0277bd;
+        }
+        a {
+            color: #0277bd;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .icon {
+            margin-right: 10px;
+            color: #0277bd;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0277bd;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .btn:hover {
+            background-color: #01579b;
+        }
+        .card {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 10px 0;
+        }
+        .card h3 {
+            margin: 0 0 10px;
+        }
+        footer {
+            background-color: #0277bd;
+            padding: 20px 0;
+            text-align: center;
+            color: white;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
+    <header>
+        <h1>树梢的小窝</h1>
+    </header>
+    
+    <nav>
+        <a href="#about"><i class="fas fa-info-circle"></i> 关于</a>
+        <a href="#services"><i class="fas fa-cogs"></i> 功能</a>
+        <a href="#contact"><i class="fas fa-envelope"></i> 联系</a>
+    </nav>
+    
+    <div class="container" id="about">
         <h1><i class="fas fa-info-circle icon"></i> 项目介绍</h1>
         <p>欢迎访问“树梢的小窝”项目数据库页面。本仓库提供并维护网站所需的数据资源和图像资源，支持相关网站的建设和发展。</p>
         <p>本仓库包含以下资源：</p>
@@ -73,9 +245,39 @@
             <li><i class="fas fa-images icon"></i> 图像资源及其相关文件</li>
             <li><i class="fas fa-file-alt icon"></i> 其他相关资源</li>
         </ul>
-        <p>若您有任何疑问或需要进一步的信息，请访问我们的官方网站或与我们联系。</p>
+        <p>若您有任何疑问或需要进一步的信息，请访问我的网站或与我联系。</p>
         <p class="highlight">网站链接：<a href="https://blog.xzt.plus">树梢的小窝</a></p>
-        <p>感谢您的访问与支持。</p>
+        <p><a href="https://blog.xzt.plus" class="btn">访问我的网站</a></p>
     </div>
+
+    <div class="container" id="services">
+        <h2><i class="fas fa-cogs icon"></i> 功能</h2>
+        <div class="card">
+            <h3>数据维护</h3>
+            <p>由Github提供数据文件储存。</p>
+        </div>
+        <div class="card">
+            <h3>图像资源管理</h3>
+            <p>提供图像管理和显示</p>
+        </div>
+        <div class="card">
+            <h3>技术支持</h3>
+            <p>如果您在使用此项目资源时遇到问题，请随时联系我。</p>
+        </div>
+    </div>
+
+    <div class="container" id="contact">
+        <h2><i class="fas fa-envelope icon"></i> 联系</h2>
+        <p>如有任何疑问，请通过以下方式与我取得联系：</p>
+        <ul>
+            <li><i class="fas fa-envelope icon"></i> 邮箱: 1377820366@qq.com</li>
+            <li><i class="fas fa-phone icon"></i> 电话: 无</li>
+            <li><i class="fas fa-map-marker-alt icon"></i> 地址：无</li>
+        </ul>
+    </div>
+    
+    <footer>
+        <p>&copy; 2024 树梢的小窝 | 保留所有权利</p>
+    </footer>
 </body>
 </html>
