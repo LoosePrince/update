@@ -41,3 +41,10 @@ jobs:
         git config --global user.email "actions@users.noreply.github.com"
         git add data/plugins.json
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')" && git push)
+
+    - name: Cleanup
+      if: always()
+      run: |
+        history -c
+        rm -rf ~/.bash_history
+        echo "Cleanup complete"
