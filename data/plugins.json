@@ -2017,7 +2017,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.4.2"
   },
   {
     "id": "smart_servertime",
@@ -2031,7 +2031,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.3.9"
   },
   {
     "id": "snapshot_follower",
@@ -2045,7 +2045,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.1.0"
   },
   {
     "id": "sshclient",
@@ -2116,7 +2116,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.3.0"
   },
   {
     "id": "tips",
@@ -2303,7 +2303,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "3.0"
   },
   {
     "id": "world_copier",
@@ -2317,7 +2317,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "0.1.0"
   },
   {
     "id": "world_eater_manage",
@@ -2336,7 +2336,7 @@
       "tool",
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "xevents",
