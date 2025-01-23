@@ -11,7 +11,7 @@ from urllib3.util.retry import Retry
 
 # 配置参数
 GITHUB_API = "https://api.github.com/repos/MCDReforged/PluginCatalogue/contents/plugins"
-GITHUB_TOKEN = os.environ.get('GH_TOKEN')  # 重要：与Action中的环境变量名一致
+GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN')  # 与YAML中的名称一致
 HEADERS = {
     'User-Agent': 'MCDReforged-Plugin-Scraper',
     'Authorization': f'token {GITHUB_TOKEN}',
