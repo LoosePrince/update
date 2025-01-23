@@ -943,7 +943,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "kook_api",
@@ -957,7 +957,7 @@
     "labels": [
       "api"
     ],
-    "latest_version": null
+    "latest_version": "0.2.0"
   },
   {
     "id": "kookin",
@@ -972,7 +972,7 @@
       "information",
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.1.2"
   },
   {
     "id": "kpi",
@@ -1004,7 +1004,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.1"
   },
   {
     "id": "lbs_velocity_handler",
@@ -1078,7 +1078,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "lite_file_manager",
@@ -1092,7 +1092,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.3.0"
   },
   {
     "id": "location_marker",
@@ -1110,7 +1110,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "1.3.2"
   },
   {
     "id": "loginproxy",
@@ -1125,7 +1125,7 @@
       "management",
       "api"
     ],
-    "latest_version": null
+    "latest_version": "0.6.11"
   },
   {
     "id": "main_storage_searcher",
@@ -1139,7 +1139,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "0.2.0"
   },
   {
     "id": "matrix_sync",
@@ -1190,7 +1190,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.2.2"
   },
   {
     "id": "mcd_task",
@@ -1343,7 +1343,7 @@
     "labels": [
       "api"
     ],
-    "latest_version": null
+    "latest_version": "1.1.1"
   },
   {
     "id": "mirror_archive_manager",
@@ -1357,7 +1357,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "0.1.3"
   },
   {
     "id": "mirror_control",
@@ -1371,7 +1371,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.0.4"
   },
   {
     "id": "mirror_mcsmcdr",
@@ -1385,7 +1385,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.3.6"
   },
   {
     "id": "mirror_server_reforged",
@@ -1399,7 +1399,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.0.8"
   },
   {
     "id": "mirror_server_sync",
@@ -1417,7 +1417,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.0.1"
   },
   {
     "id": "mirror_sync_reforged",
@@ -1431,7 +1431,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.3.0"
   },
   {
     "id": "more_command_nodes",
@@ -1445,7 +1445,7 @@
     "labels": [
       "api"
     ],
-    "latest_version": null
+    "latest_version": "1.1.2"
   },
   {
     "id": "mount",
@@ -1459,7 +1459,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "0.3.1"
   },
   {
     "id": "multi_rcon_api",
@@ -1474,7 +1474,7 @@
       "tool",
       "api"
     ],
-    "latest_version": null
+    "latest_version": "2.0.1"
   },
   {
     "id": "multi_whitelist",
@@ -1749,7 +1749,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "0.0.3"
   },
   {
     "id": "region_backup",
@@ -1763,7 +1763,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.7.0"
   },
   {
     "id": "region_file_manager",
@@ -1777,7 +1777,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.1.0"
   },
   {
     "id": "region_file_updater",
@@ -1791,7 +1791,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.5.2"
   },
   {
     "id": "region_file_updater_multi",
@@ -1805,7 +1805,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.0.3"
   },
   {
     "id": "renewability",
@@ -1819,7 +1819,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.1.0"
   },
   {
     "id": "requirements",
@@ -1847,7 +1847,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "run_some_commands",
@@ -1861,7 +1861,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "salty_qq_chat",
@@ -1891,7 +1891,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "server_redirect",
@@ -1905,7 +1905,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.3"
   },
   {
     "id": "showshowway",
@@ -1919,7 +1919,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "signal_container",
@@ -1933,7 +1933,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.1"
   },
   {
     "id": "simple_calculator",
@@ -1947,7 +1947,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "simple_op",
@@ -1961,7 +1961,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "simple_test",
@@ -1975,7 +1975,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "3.0.0"
   },
   {
     "id": "simple_translator",
@@ -1989,7 +1989,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.3.1"
   },
   {
     "id": "skript_command_register",
@@ -2003,7 +2003,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "0.1.0"
   },
   {
     "id": "smart_backup",
@@ -2059,7 +2059,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "0.0.1"
   },
   {
     "id": "stats_helper",
@@ -2074,7 +2074,7 @@
       "tool",
       "information"
     ],
-    "latest_version": null
+    "latest_version": "7.5.1"
   },
   {
     "id": "the_offline_ops",
@@ -2088,7 +2088,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.1"
   },
   {
     "id": "time_query",
@@ -2102,7 +2102,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "0.0.4"
   },
   {
     "id": "timed_quick_backup_multi",
@@ -2148,7 +2148,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.1.0"
   },
   {
     "id": "todolist",
@@ -2163,7 +2163,7 @@
       "tool",
       "information"
     ],
-    "latest_version": null
+    "latest_version": "1.1.1"
   },
   {
     "id": "tpm",
@@ -2177,7 +2177,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "0.5.0"
   },
   {
     "id": "uuid_api",
@@ -2191,7 +2191,7 @@
     "labels": [
       "api"
     ],
-    "latest_version": null
+    "latest_version": "0.1.2"
   },
   {
     "id": "vault_bot",
@@ -2205,7 +2205,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "venture_chat_handler",
@@ -2219,7 +2219,7 @@
     "labels": [
       "handler"
     ],
-    "latest_version": null
+    "latest_version": "1.0.0"
   },
   {
     "id": "welcome_msg",
@@ -2233,7 +2233,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "1.2.0"
   },
   {
     "id": "where2go",
@@ -2247,7 +2247,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "0.2.5"
   },
   {
     "id": "where_is",
@@ -2261,7 +2261,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": null
+    "latest_version": "2.2.1"
   },
   {
     "id": "whisper",
@@ -2275,7 +2275,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.0"
   },
   {
     "id": "whitelist_api",
@@ -2289,7 +2289,7 @@
     "labels": [
       "api"
     ],
-    "latest_version": null
+    "latest_version": "1.3.3"
   },
   {
     "id": "wiki_request",
@@ -2364,7 +2364,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": null
+    "latest_version": "1.4.1"
   },
   {
     "id": "zip_backup",
