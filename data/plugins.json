@@ -1791,7 +1791,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": null
+    "latest_version": "1.5.2"
   },
   {
     "id": "region_file_updater_multi",
