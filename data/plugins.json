@@ -1641,7 +1641,7 @@
       "tool",
       "management"
     ],
-    "latest_version": "1.2.1"
+    "latest_version": null
   },
   {
     "id": "prime_backup",
@@ -1707,7 +1707,7 @@
       "information",
       "management"
     ],
-    "latest_version": "2.3.0"
+    "latest_version": null
   },
   {
     "id": "quick_backup_multi",
@@ -1763,7 +1763,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "1.7.0"
+    "latest_version": null
   },
   {
     "id": "region_file_manager",
@@ -1777,7 +1777,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "1.1.0"
+    "latest_version": null
   },
   {
     "id": "region_file_updater",
@@ -1791,7 +1791,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "1.5.2"
+    "latest_version": null
   },
   {
     "id": "region_file_updater_multi",
@@ -1975,7 +1975,7 @@
     "labels": [
       "information"
     ],
-    "latest_version": "3.0.0"
+    "latest_version": null
   },
   {
     "id": "simple_translator",
@@ -1989,7 +1989,7 @@
     "labels": [
       "tool"
     ],
-    "latest_version": "1.3.1"
+    "latest_version": null
   },
   {
     "id": "skript_command_register",
@@ -2031,7 +2031,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "1.3.9"
+    "latest_version": null
   },
   {
     "id": "snapshot_follower",
@@ -2045,7 +2045,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "1.1.0"
+    "latest_version": null
   },
   {
     "id": "sshclient",
@@ -2059,7 +2059,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "0.0.1"
+    "latest_version": null
   },
   {
     "id": "stats_helper",
@@ -2074,7 +2074,7 @@
       "tool",
       "information"
     ],
-    "latest_version": "7.5.1"
+    "latest_version": null
   },
   {
     "id": "the_offline_ops",
@@ -2317,7 +2317,7 @@
     "labels": [
       "management"
     ],
-    "latest_version": "0.1.0"
+    "latest_version": null
   },
   {
     "id": "world_eater_manage",
@@ -2336,7 +2336,7 @@
       "tool",
       "management"
     ],
-    "latest_version": "1.2.0"
+    "latest_version": null
   },
   {
     "id": "xevents",
